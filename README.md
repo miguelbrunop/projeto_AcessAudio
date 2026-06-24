@@ -24,10 +24,14 @@ O projeto tem como finalidade apoiar estudantes no aprendizado e promover acessi
 
 ## Como executar
 Instale as bibliotecas necessárias:
-    pip install streamlit newspaper3k gtts pytesseract pillow
+```bash
+pip install streamlit newspaper3k gtts pytesseract pillow
+```
 
 Execute a aplicação:
-    streamlit run app.py
+```bash
+streamlit run app.py
+```
 
 Acesse no navegador:
 
